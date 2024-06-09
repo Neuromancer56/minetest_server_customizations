@@ -1,0 +1,1 @@
+change remove_far_mobs setting from false to true
