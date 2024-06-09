@@ -1,0 +1,24 @@
+5/5/2024
+wrap your message in ``` on top and bottom
+
+template:
+
+
+**Quick Form:** 
+\`\`\`\_\_\*\*SERVER NAME:\*\*_\_
+\*\*Minetest:\*\* \`ADDRESS:PORT\`
+\*\*Discord:\*\* INVITE LINK\`\`\`
+
+ 
+
+
+What it looks like when it is good.
+__**Neuromancer:**__
+**Minetest:** `ronnix.ddns.net:45134`
+**Discord:** https://QfuagQZuM8
+
+What I pasted to make it look like that:
+
+```__**Neuromancer:**__
+**Minetest:** `ronnix.ddns.net:45134`
+**Discord:** https://QfuagQZuM8```
